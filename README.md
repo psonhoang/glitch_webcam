@@ -15,11 +15,6 @@ There is also a 50/50 chance that a bitwise-not filter will be applied to the fr
 ## Requirements
 - python (python3 if you're on a Mac)
 
-## Installation
-```bash
-pip3 install -r requirements.txt
-```
-
 ## Usage
 If you're on Mac and have both python and python3, please use python3 and pip3
 ```bash
